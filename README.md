@@ -34,9 +34,8 @@ A continuación se muestran los código sql/python/jupyter [*los encuentra en es
   - obtener_trafico_experiencia_digital_tdc.sql
 - Número de clics banner preaprobados en el canal app personas [fuente: bigquery]
   - obtener_clics_banner_preaprobados_app.sql
-- Número de clics banner preaprobados en el canal svp personas [fuente: bigquery]
-  - obtener_clics_banner_preaprobados_app.sql !!!FALTA ADICIONAR QUERY, PEDIRSELO A YESSIKATERINE!!!
-- Inversión online y offline competencia en mercadeo para impulsar sus tdc [fuente: nutresa] !!!CONFIRMAR FUENTE CON JOSE MIGUEL LESMES CUBIDES!!![Archivo se solicita a Jose Miguel Lesmes Cubides]
+- Número de clics banner preaprobados en el canal svp personas [fuente: GA4 - Se descarga directamente]
+- Inversión online y offline competencia en mercadeo para impulsar sus tdc [fuente: OMD. Equipo Media team tiene el acceso - Jose Miguel Lesmes Cubides]
   - El archivo se encuentra en la carpeta [datos](https://bancolombia.sharepoint.com/:f:/r/teams/EEIngenierayCiencia/Documentos%20compartidos/Ciencia%20de%20Datos/Atribuci%C3%B3n/Ventas%20Digitales/MMM%20TDC/Datos?d=w531659e18b2c41e382ec817128bbec60&csf=1&web=1&e=em9IqN)
 - Variables macroeconómicas: Tasa de inflación, tasa de desempleo, salario mínimo, PIB, tasa de interés de política monetaria [fuente: banco de la república]
   - El archivo se encuentra en la carpeta [datos](https://bancolombia.sharepoint.com/:f:/r/teams/EEIngenierayCiencia/Documentos%20compartidos/Ciencia%20de%20Datos/Atribuci%C3%B3n/Ventas%20Digitales/MMM%20TDC/Datos?d=w531659e18b2c41e382ec817128bbec60&csf=1&web=1&e=em9IqN)
