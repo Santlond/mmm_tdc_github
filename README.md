@@ -9,9 +9,9 @@ El analytics translator, quien sirve de apoyo, de ventas digitales es Yessikater
 
 Cliente interno del proyecto es el equipo ventas digitales específicamente el área de tarjetas de crédito liderado por Esteban Uribe Zapata
 
-A hoy [20260816] el proyecto se encuentra en el paso de recolección de variables. El rango de tiempo solicitado para cada variable fue 20240101 hasta 20260630.
+A hoy [20260823] el proyecto se encuentra en el paso de recolección de variables. El rango de tiempo solicitado para cada variable fue 20240101 hasta 20260630.
 
-A hoy [20260816] no se ha iniciado proceso de actualización de variables.
+A hoy [20260823] no se ha iniciado proceso de actualización de variables.
 
 
 # 🛠️ Recolección de datos
@@ -28,6 +28,8 @@ A continuación se muestran los código sql/python/jupyter [*los encuentra en es
 
 - Número de tarjetas vendidas por el canal digital [fuente: lz]
   - obtener_kpi_ventas_tdc.ipynb
+- Número de llamadas equipo bpo ofreciendo tdc [fuente: lz]
+  - obtener_num_llamadas_bpo.ipynb
 - Número de errores bloqueantes en la experiencia digital de tdc [fuente: lz]
   - obtener_num_errores_bloqueantes_experiencia_digital_tdc.ipynb
 - Tráfico en experiencia digital tdc: landing conversion, experiencia y motor [fuente: bigquery][Sql creado y ejecutado por equipo ingeniería de datos - Alejandro Ramirez Rios]
@@ -43,10 +45,15 @@ A continuación se muestran los código sql/python/jupyter [*los encuentra en es
   - Pendiente
 - Tasa de interés de la tdc [fuente: pendiente]
   - Pendiente
-- Fallas tecnológicas canales APP y SVP personas [fuente: lz]
-  - Pendientes
-- Clics banners tdc en tu360 compras [fuente: bigquery]
+- Número de errores banner preaprobados canales APP y SVP personas [fuente: lz. Sofia Salazar Hernandez]
   - Pendiente
+- Número de errores autenticación canales APP y SVP personas [fuente: lz. Mateo Loaiza Agudelo]
+  - Pendiente
+- Número de error generalizados de acceso a canales APP y SVP personas [fuente: Pendiente. Mateo Loaiza Agudelo]
+  - Pendientes
+- Clics banners tdc en tu360 compras [fuente: bigquery - Jeimy Tatiana Hernandez Hernandez]
+  - Pendiente
+
 
 # 🛸 Contribuidores
 - [Santiago Humberto Londoño Restrepo](https://github.com/shlondon/)
